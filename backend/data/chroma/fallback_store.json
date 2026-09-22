@@ -1,0 +1,912 @@
+{
+  "883a0dd7-5165-42fb-8d02-e763731960aa": {
+    "id": "883a0dd7-5165-42fb-8d02-e763731960aa",
+    "document": "[France] [Dr. Jean Martin] [00:00] Interviewer: Thanks for joining. To begin, how would you describe robotic surgery adoption in France today?",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "00:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 0
+    }
+  },
+  "0f2f7671-e5a3-42d0-ad34-2c68aaf08671": {
+    "id": "0f2f7671-e5a3-42d0-ad34-2c68aaf08671",
+    "document": "[France] [Dr. Jean Martin] [00:18] Dr. Martin: Adoption is growing, but it is still concentrated in larger academic hospitals and private centres with stronger capital budgets. Smaller regional hospitals are much slower.",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "00:18",
+      "speaker": "Dr. Martin",
+      "is_expert": true,
+      "chunk_index": 1
+    }
+  },
+  "0206431e-e0fb-415f-9858-25cf110961e2": {
+    "id": "0206431e-e0fb-415f-9858-25cf110961e2",
+    "document": "[France] [Dr. Jean Martin] [01:12] Interviewer: What is holding adoption back?",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "01:12",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 2
+    }
+  },
+  "c642c93e-cb70-4622-ad69-54981fca33cb": {
+    "id": "c642c93e-cb70-4622-ad69-54981fca33cb",
+    "document": "[France] [Dr. Jean Martin] [01:20] Dr. Martin: The biggest issue is still capital budget approval. Hospitals may like the technology clinically, but purchasing committees need a strong economic case before approving a system.",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "01:20",
+      "speaker": "Dr. Martin",
+      "is_expert": true,
+      "chunk_index": 3
+    }
+  },
+  "13ea983a-2078-45b1-9688-9b694e57e929": {
+    "id": "13ea983a-2078-45b1-9688-9b694e57e929",
+    "document": "[France] [Dr. Jean Martin] [02:14] Interviewer: So ROI is important?",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "02:14",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 4
+    }
+  },
+  "5fbb3bb8-79e0-40b0-8f60-1a779f0b8b6b": {
+    "id": "5fbb3bb8-79e0-40b0-8f60-1a779f0b8b6b",
+    "document": "[France] [Dr. Jean Martin] [02:18] Dr. Martin: Very important. The clinical argument may get surgeons interested, but the finance team wants to understand utilisation, procedure volume, maintenance cost and whether the system will actually pay for itself.",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "02:18",
+      "speaker": "Dr. Martin",
+      "is_expert": true,
+      "chunk_index": 5
+    }
+  },
+  "01cf4d8a-f3e6-40b3-8f9f-e653a05419a1": {
+    "id": "01cf4d8a-f3e6-40b3-8f9f-e653a05419a1",
+    "document": "[France] [Dr. Jean Martin] [03:05] Interviewer: What about training?",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "03:05",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 6
+    }
+  },
+  "9a75578b-d3fb-439a-92bc-bd80e05e6010": {
+    "id": "9a75578b-d3fb-439a-92bc-bd80e05e6010",
+    "document": "[France] [Dr. Jean Martin] [03:10] Dr. Martin: Training matters, especially in the first year. If only one surgeon can use the system, the economics become difficult. Hospitals want several surgeons trained so utilisation is high enough.",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "03:10",
+      "speaker": "Dr. Martin",
+      "is_expert": true,
+      "chunk_index": 7
+    }
+  },
+  "e4378b5d-5b3b-4057-8e4e-e6cc815fdf7c": {
+    "id": "e4378b5d-5b3b-4057-8e4e-e6cc815fdf7c",
+    "document": "[France] [Dr. Jean Martin] [04:02] Interviewer: Are clinical outcomes still the main driver?",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "04:02",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 8
+    }
+  },
+  "815679fb-91b5-4bc8-8ab0-1f37336e0023": {
+    "id": "815679fb-91b5-4bc8-8ab0-1f37336e0023",
+    "document": "[France] [Dr. Jean Martin] [04:08] Dr. Martin: Clinical outcomes are necessary, but they are not enough on their own. If two systems offer similar outcomes, the hospital will look hard at economics and utilisation.",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "04:08",
+      "speaker": "Dr. Martin",
+      "is_expert": true,
+      "chunk_index": 9
+    }
+  },
+  "f1539123-931a-4091-98db-2fda20f69728": {
+    "id": "f1539123-931a-4091-98db-2fda20f69728",
+    "document": "[France] [Dr. Jean Martin] [05:00] Interviewer: What do you expect over the next three to five years?",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "05:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 10
+    }
+  },
+  "221f7ecf-52c4-49e2-8f27-9552f5993727": {
+    "id": "221f7ecf-52c4-49e2-8f27-9552f5993727",
+    "document": "[France] [Dr. Jean Martin] [05:07] Dr. Martin: I expect adoption to continue increasing, probably steadily rather than explosively. I would expect maybe 15 to 20 percent more procedures annually in some of the stronger centres, but smaller hospitals will remain slower.",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "05:07",
+      "speaker": "Dr. Martin",
+      "is_expert": true,
+      "chunk_index": 11
+    }
+  },
+  "5f72c755-908d-49d9-892b-944bc1294f9f": {
+    "id": "5f72c755-908d-49d9-892b-944bc1294f9f",
+    "document": "[France] [Dr. Jean Martin] [06:02] Interviewer: How long does a purchase decision normally take?",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "06:02",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 12
+    }
+  },
+  "931489f6-bbdc-4e54-8317-6fb6c4e15dbc": {
+    "id": "931489f6-bbdc-4e54-8317-6fb6c4e15dbc",
+    "document": "[France] [Dr. Jean Martin] [06:08] Dr. Martin: Six to twelve months is realistic once the hospital becomes serious. It can be longer if the capital committee pushes the purchase into the next budget cycle.",
+    "metadata": {
+      "expert_name": "Dr. Jean Martin",
+      "country": "France",
+      "expert_role": "Head of Urology",
+      "timestamp": "06:08",
+      "speaker": "Dr. Martin",
+      "is_expert": true,
+      "chunk_index": 13
+    }
+  },
+  "470d30b5-f0a0-41eb-80f8-0d4caae87733": {
+    "id": "470d30b5-f0a0-41eb-80f8-0d4caae87733",
+    "document": "[Germany] [Anna Keller] [00:00] Interviewer: How would you describe robotic surgery adoption in Germany today?",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "00:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 0
+    }
+  },
+  "f1087c70-201f-4106-8e8b-3f4fc79d9da4": {
+    "id": "f1087c70-201f-4106-8e8b-3f4fc79d9da4",
+    "document": "[Germany] [Anna Keller] [00:16] Anna Keller: It is growing, but adoption is quite uneven. Large university hospitals are much more advanced, while many smaller hospitals are still waiting.",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "00:16",
+      "speaker": "Anna Keller",
+      "is_expert": true,
+      "chunk_index": 1
+    }
+  },
+  "8774885a-183b-4180-bdd1-34d01018fa2d": {
+    "id": "8774885a-183b-4180-bdd1-34d01018fa2d",
+    "document": "[Germany] [Anna Keller] [01:05] Interviewer: What are the main barriers?",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "01:05",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 2
+    }
+  },
+  "9194ec2f-6772-46f0-8d7c-5fd3b6ad9c2c": {
+    "id": "9194ec2f-6772-46f0-8d7c-5fd3b6ad9c2c",
+    "document": "[Germany] [Anna Keller] [01:10] Anna Keller: Cost is the first barrier. These are large capital purchases, and hospital finances are under pressure. The second issue is proving that the system will be used enough.",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "01:10",
+      "speaker": "Anna Keller",
+      "is_expert": true,
+      "chunk_index": 3
+    }
+  },
+  "6be76d09-8e80-4a41-9fdd-c858035e6c58": {
+    "id": "6be76d09-8e80-4a41-9fdd-c858035e6c58",
+    "document": "[Germany] [Anna Keller] [02:03] Interviewer: What does procurement focus on?",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "02:03",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 4
+    }
+  },
+  "2deb0c63-6ec5-4f71-9ea6-616a9abc8ffe": {
+    "id": "2deb0c63-6ec5-4f71-9ea6-616a9abc8ffe",
+    "document": "[Germany] [Anna Keller] [02:08] Anna Keller: We look at total cost of ownership, expected procedure volume, maintenance, service contracts and training requirements. A strong clinical case helps, but the economic case decides whether it gets approved.",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "02:08",
+      "speaker": "Anna Keller",
+      "is_expert": true,
+      "chunk_index": 5
+    }
+  },
+  "b9ead1ca-98bc-4c21-92b3-c8a048d208b7": {
+    "id": "b9ead1ca-98bc-4c21-92b3-c8a048d208b7",
+    "document": "[Germany] [Anna Keller] [03:00] Interviewer: How important is surgeon training?",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "03:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 6
+    }
+  },
+  "8930ef05-a946-4eaa-a95f-f520a5b95d92": {
+    "id": "8930ef05-a946-4eaa-a95f-f520a5b95d92",
+    "document": "[Germany] [Anna Keller] [03:05] Anna Keller: Very important operationally. If the hospital buys a system but only one surgeon is comfortable using it, utilisation will be poor. That weakens the business case.",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "03:05",
+      "speaker": "Anna Keller",
+      "is_expert": true,
+      "chunk_index": 7
+    }
+  },
+  "5a2d1270-4fd8-447b-ac65-11bd7ff31742": {
+    "id": "5a2d1270-4fd8-447b-ac65-11bd7ff31742",
+    "document": "[Germany] [Anna Keller] [04:04] Interviewer: Do you expect adoption to accelerate?",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "04:04",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 8
+    }
+  },
+  "63ceb772-086c-4e0d-a112-33f6e068cbdd": {
+    "id": "63ceb772-086c-4e0d-a112-33f6e068cbdd",
+    "document": "[Germany] [Anna Keller] [04:09] Anna Keller: Yes, but I would not expect a dramatic jump. I think growth will be gradual, especially because many hospitals have other competing capital priorities.",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "04:09",
+      "speaker": "Anna Keller",
+      "is_expert": true,
+      "chunk_index": 9
+    }
+  },
+  "8e703578-6414-469d-b226-710442c539bd": {
+    "id": "8e703578-6414-469d-b226-710442c539bd",
+    "document": "[Germany] [Anna Keller] [05:02] Interviewer: Any rough expectation over the next three to five years?",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "05:02",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 10
+    }
+  },
+  "21e0a161-2d6e-41cd-8db8-e8d77cb33466": {
+    "id": "21e0a161-2d6e-41cd-8db8-e8d77cb33466",
+    "document": "[Germany] [Anna Keller] [05:08] Anna Keller: I would expect continued growth, but probably closer to high single digits or low double digits in procedure volumes rather than something like 20 percent across the whole market.",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "05:08",
+      "speaker": "Anna Keller",
+      "is_expert": true,
+      "chunk_index": 11
+    }
+  },
+  "5f2a2f58-d835-470b-bfce-159d17462c79": {
+    "id": "5f2a2f58-d835-470b-bfce-159d17462c79",
+    "document": "[Germany] [Anna Keller] [06:00] Interviewer: How long can the purchase process take?",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "06:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 12
+    }
+  },
+  "69a33cd4-9411-4790-aa23-b4ef81dd31dd": {
+    "id": "69a33cd4-9411-4790-aa23-b4ef81dd31dd",
+    "document": "[Germany] [Anna Keller] [06:05] Anna Keller: Nine to eighteen months is common. Procurement, clinical leadership, finance and management all need to align, so it can move slowly.",
+    "metadata": {
+      "expert_name": "Anna Keller",
+      "country": "Germany",
+      "expert_role": "Former Hospital Procurement Director",
+      "timestamp": "06:05",
+      "speaker": "Anna Keller",
+      "is_expert": true,
+      "chunk_index": 13
+    }
+  },
+  "29ecf3ef-f982-441d-8989-a2d552f48877": {
+    "id": "29ecf3ef-f982-441d-8989-a2d552f48877",
+    "document": "[United Kingdom] [Dr. Emily Carter] [00:00] Interviewer: How would you describe adoption in the UK?",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "00:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 0
+    }
+  },
+  "12cd4457-3eda-45ff-b431-b612c3dbb041": {
+    "id": "12cd4457-3eda-45ff-b431-b612c3dbb041",
+    "document": "[United Kingdom] [Dr. Emily Carter] [00:14] Dr. Carter: Adoption is increasing, and in some larger NHS trusts robotic surgery is becoming standard for selected procedures. But access still varies significantly by hospital.",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "00:14",
+      "speaker": "Dr. Carter",
+      "is_expert": true,
+      "chunk_index": 1
+    }
+  },
+  "03cf3701-3ec6-4015-9d0f-b024962d9aae": {
+    "id": "03cf3701-3ec6-4015-9d0f-b024962d9aae",
+    "document": "[United Kingdom] [Dr. Emily Carter] [01:00] Interviewer: What are the main barriers?",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "01:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 2
+    }
+  },
+  "23728066-96cd-421e-a743-f23d90ef327b": {
+    "id": "23728066-96cd-421e-a743-f23d90ef327b",
+    "document": "[United Kingdom] [Dr. Emily Carter] [01:05] Dr. Carter: Funding is important, but I would say training capacity is just as important. You can buy a system, but if you cannot train enough surgeons and theatre staff, adoption stalls.",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "01:05",
+      "speaker": "Dr. Carter",
+      "is_expert": true,
+      "chunk_index": 3
+    }
+  },
+  "460814b0-de11-4e6c-b826-83c284b9a702": {
+    "id": "460814b0-de11-4e6c-b826-83c284b9a702",
+    "document": "[United Kingdom] [Dr. Emily Carter] [02:02] Interviewer: How important is ROI?",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "02:02",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 4
+    }
+  },
+  "a902486c-4b73-4cda-acf6-cc6191e6b602": {
+    "id": "a902486c-4b73-4cda-acf6-cc6191e6b602",
+    "document": "[United Kingdom] [Dr. Emily Carter] [02:07] Dr. Carter: It matters, but the discussion is not always purely financial. Hospitals also consider patient outcomes, length of stay, surgeon recruitment and whether the technology improves their clinical position.",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "02:07",
+      "speaker": "Dr. Carter",
+      "is_expert": true,
+      "chunk_index": 5
+    }
+  },
+  "2c8cdb51-6246-46d0-add5-78c31c8c6aa8": {
+    "id": "2c8cdb51-6246-46d0-add5-78c31c8c6aa8",
+    "document": "[United Kingdom] [Dr. Emily Carter] [03:03] Interviewer: So would you say economics are less important in the UK?",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "03:03",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 6
+    }
+  },
+  "7023e12a-f275-4f6a-8ae6-8f0a5fa4b321": {
+    "id": "7023e12a-f275-4f6a-8ae6-8f0a5fa4b321",
+    "document": "[United Kingdom] [Dr. Emily Carter] [03:10] Dr. Carter: I would say economics and clinical strategy are balanced. I would not say finance alone decides the purchase.",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "03:10",
+      "speaker": "Dr. Carter",
+      "is_expert": true,
+      "chunk_index": 7
+    }
+  },
+  "fa4052a8-689b-4d84-96e7-ac1c943940ae": {
+    "id": "fa4052a8-689b-4d84-96e7-ac1c943940ae",
+    "document": "[United Kingdom] [Dr. Emily Carter] [04:01] Interviewer: What is your outlook for the next three to five years?",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "04:01",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 8
+    }
+  },
+  "5ace2534-1200-4e74-b48f-5a5d1d971c2e": {
+    "id": "5ace2534-1200-4e74-b48f-5a5d1d971c2e",
+    "document": "[United Kingdom] [Dr. Emily Carter] [04:06] Dr. Carter: I am quite positive. I think adoption could accelerate if training expands and systems become more cost competitive. I could see procedure growth above 15 percent annually in some areas.",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "04:06",
+      "speaker": "Dr. Carter",
+      "is_expert": true,
+      "chunk_index": 9
+    }
+  },
+  "d2f4a830-c1f3-45a7-a48b-06214f85b91b": {
+    "id": "d2f4a830-c1f3-45a7-a48b-06214f85b91b",
+    "document": "[United Kingdom] [Dr. Emily Carter] [05:00] Interviewer: What about purchase timelines?",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "05:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 10
+    }
+  },
+  "017ca5de-4f57-44bd-802b-c64beda594cf": {
+    "id": "017ca5de-4f57-44bd-802b-c64beda594cf",
+    "document": "[United Kingdom] [Dr. Emily Carter] [05:04] Dr. Carter: Around six to nine months can happen if funding is already available. If the trust has to wait for a new capital cycle, it can take much longer.",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "05:04",
+      "speaker": "Dr. Carter",
+      "is_expert": true,
+      "chunk_index": 11
+    }
+  },
+  "f92d2d7f-4711-4140-8c04-d07d88b31bc0": {
+    "id": "f92d2d7f-4711-4140-8c04-d07d88b31bc0",
+    "document": "[United Kingdom] [Dr. Emily Carter] [06:00] Interviewer: Any final thought?",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "06:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 12
+    }
+  },
+  "63b9aae9-45a4-439c-acfb-c32827c5e369": {
+    "id": "63b9aae9-45a4-439c-acfb-c32827c5e369",
+    "document": "[United Kingdom] [Dr. Emily Carter] [06:04] Dr. Carter: The key point is that adoption is not just about buying the machine. Hospitals need enough trained people and enough procedure volume to make the programme sustainable.",
+    "metadata": {
+      "expert_name": "Dr. Emily Carter",
+      "country": "United Kingdom",
+      "expert_role": "Consultant Urologist",
+      "timestamp": "06:04",
+      "speaker": "Dr. Carter",
+      "is_expert": true,
+      "chunk_index": 13
+    }
+  },
+  "743132b5-4109-4b95-827c-5d3acd441a83": {
+    "id": "743132b5-4109-4b95-827c-5d3acd441a83",
+    "document": "[Italy] [Dr. Marco Rossi] [00:00] Interviewer: Could you describe the current adoption of robotic surgery in Italian hospitals?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "00:00",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 0
+    }
+  },
+  "261e7ad6-4f46-4be7-9923-47a7b05c9b35": {
+    "id": "261e7ad6-4f46-4be7-9923-47a7b05c9b35",
+    "document": "[Italy] [Dr. Marco Rossi] [00:18] Dr. Marco Rossi: Adoption is increasing, but it is still concentrated in larger teaching hospitals and private centres. Regional hospitals are generally more cautious because they have tighter capital budgets and may not have enough procedures to justify the investment.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "00:18",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 1
+    }
+  },
+  "63ccabc2-09b7-461f-afad-3b3685e1c982": {
+    "id": "63ccabc2-09b7-461f-afad-3b3685e1c982",
+    "document": "[Italy] [Dr. Marco Rossi] [00:42] Interviewer: What are the biggest barriers to adoption?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "00:42",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 2
+    }
+  },
+  "524194a4-59c7-4cde-ae8e-f90aa4691222": {
+    "id": "524194a4-59c7-4cde-ae8e-f90aa4691222",
+    "document": "[Italy] [Dr. Marco Rossi] [00:55] Dr. Marco Rossi: The first barrier is definitely the initial investment. Hospitals also have to consider maintenance contracts, disposable instruments, staff training, and whether they can generate enough procedure volume. Availability of trained surgeons is another important issue.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "00:55",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 3
+    }
+  },
+  "dd98f685-7ea7-4c2b-8d4e-3dd0db6e1ef0": {
+    "id": "dd98f685-7ea7-4c2b-8d4e-3dd0db6e1ef0",
+    "document": "[Italy] [Dr. Marco Rossi] [01:22] Interviewer: How important is the economic case and ROI when hospitals purchase a robotic system?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "01:22",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 4
+    }
+  },
+  "e90931b0-02d8-49af-abfc-a5db721e56b4": {
+    "id": "e90931b0-02d8-49af-abfc-a5db721e56b4",
+    "document": "[Italy] [Dr. Marco Rossi] [01:35] Dr. Marco Rossi: It is important, but I would not describe it as the only deciding factor. Hospital management looks at the total cost of ownership and expected utilization. If a hospital can only perform a small number of procedures, the economics become difficult. However, clinical strategy and the ability to attract surgeons can also influence the decision.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "01:35",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 5
+    }
+  },
+  "c339dce7-fc93-4725-aecd-c9cbdbfa47eb": {
+    "id": "c339dce7-fc93-4725-aecd-c9cbdbfa47eb",
+    "document": "[Italy] [Dr. Marco Rossi] [02:05] Interviewer: So would you say a positive ROI guarantees that a hospital will purchase a system?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "02:05",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 6
+    }
+  },
+  "24669e63-29e7-4b25-981b-8854479eb800": {
+    "id": "24669e63-29e7-4b25-981b-8854479eb800",
+    "document": "[Italy] [Dr. Marco Rossi] [02:17] Dr. Marco Rossi: No, absolutely not. A strong economic case helps, but it does not guarantee approval. Hospitals may still postpone a purchase because of competing capital projects, staffing limitations, or a lack of trained surgeons.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "02:17",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 7
+    }
+  },
+  "c4837ddd-c760-4174-872c-e8a6e3a79d5c": {
+    "id": "c4837ddd-c760-4174-872c-e8a6e3a79d5c",
+    "document": "[Italy] [Dr. Marco Rossi] [02:35] Interviewer: How important is surgeon training?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "02:35",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 8
+    }
+  },
+  "9b1dfd1c-f076-4e53-9097-1f82cfcb15c7": {
+    "id": "9b1dfd1c-f076-4e53-9097-1f82cfcb15c7",
+    "document": "[Italy] [Dr. Marco Rossi] [02:47] Dr. Marco Rossi: Training is critical. You need more than one surgeon who can use the platform if you want consistent utilization. Training also takes time, and that can become a bottleneck when hospitals are trying to expand robotic surgery.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "02:47",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 9
+    }
+  },
+  "e252993d-e308-4792-9ccd-21a517b27fe4": {
+    "id": "e252993d-e308-4792-9ccd-21a517b27fe4",
+    "document": "[Italy] [Dr. Marco Rossi] [03:12] Interviewer: What about clinical outcomes?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "03:12",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 10
+    }
+  },
+  "72aff6a2-74ba-4585-83b5-5b2bc91fb326": {
+    "id": "72aff6a2-74ba-4585-83b5-5b2bc91fb326",
+    "document": "[Italy] [Dr. Marco Rossi] [03:25] Dr. Marco Rossi: Clinical outcomes are important because hospitals need to demonstrate that the technology provides value for patients. But good clinical outcomes alone do not automatically justify the purchase. They have to be considered alongside utilization, costs, staffing, and the hospital's broader strategy.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "03:25",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 11
+    }
+  },
+  "53d56c79-f4dd-4916-9ccc-0d472649dee2": {
+    "id": "53d56c79-f4dd-4916-9ccc-0d472649dee2",
+    "document": "[Italy] [Dr. Marco Rossi] [03:50] Interviewer: How do you expect adoption to change over the next three to five years?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "03:50",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 12
+    }
+  },
+  "311375fe-f5db-411f-8040-aefa7329f4c0": {
+    "id": "311375fe-f5db-411f-8040-aefa7329f4c0",
+    "document": "[Italy] [Dr. Marco Rossi] [04:02] Dr. Marco Rossi: I expect continued growth, particularly in high-volume centres. I would be cautious about applying the growth rate of individual hospitals to the entire Italian market. Some centres may increase their robotic procedures by more than 15 percent annually, but that does not mean the whole market will grow at the same rate.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "04:02",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 13
+    }
+  },
+  "42c588e2-aab0-40db-8900-ba59773b1590": {
+    "id": "42c588e2-aab0-40db-8900-ba59773b1590",
+    "document": "[Italy] [Dr. Marco Rossi] [04:29] Interviewer: What could accelerate adoption?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "04:29",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 14
+    }
+  },
+  "77b4bd90-a17e-43df-bd0f-3bca6ff1b9a2": {
+    "id": "77b4bd90-a17e-43df-bd0f-3bca6ff1b9a2",
+    "document": "[Italy] [Dr. Marco Rossi] [04:38] Dr. Marco Rossi: Lower equipment costs would help. More training capacity would also make a difference. If hospitals can increase utilization and reduce the cost per procedure, the business case becomes easier to justify.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "04:38",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 15
+    }
+  },
+  "2f494174-7204-4805-b0ca-5607b25e4bb4": {
+    "id": "2f494174-7204-4805-b0ca-5607b25e4bb4",
+    "document": "[Italy] [Dr. Marco Rossi] [04:55] Interviewer: What could slow adoption?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "04:55",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 16
+    }
+  },
+  "eb05a4b8-0121-4cdd-9e63-41624840925d": {
+    "id": "eb05a4b8-0121-4cdd-9e63-41624840925d",
+    "document": "[Italy] [Dr. Marco Rossi] [05:03] Dr. Marco Rossi: Capital budget constraints are probably the biggest issue. A hospital may support robotic surgery clinically but still delay the purchase because it has other infrastructure investments that are considered more urgent.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "05:03",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 17
+    }
+  },
+  "a9722b7f-47a8-4f0a-aad3-b8fed305ef4d": {
+    "id": "a9722b7f-47a8-4f0a-aad3-b8fed305ef4d",
+    "document": "[Italy] [Dr. Marco Rossi] [05:20] Interviewer: What is a typical purchasing timeline?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "05:20",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 18
+    }
+  },
+  "352ed39f-25af-4c85-8287-d5f5d2cf404a": {
+    "id": "352ed39f-25af-4c85-8287-d5f5d2cf404a",
+    "document": "[Italy] [Dr. Marco Rossi] [05:32] Dr. Marco Rossi: I would say roughly 6 to 12 months when funding has already been approved. If the purchase needs to go through a new capital budgeting cycle, it can take considerably longer. There isn't one fixed timeline for every hospital.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "05:32",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 19
+    }
+  },
+  "7bfee204-fd27-4b18-a3d0-6e02cb1da066": {
+    "id": "7bfee204-fd27-4b18-a3d0-6e02cb1da066",
+    "document": "[Italy] [Dr. Marco Rossi] [05:55] Interviewer: Who is normally involved in the decision?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "05:55",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 20
+    }
+  },
+  "9b22e6ae-356b-492d-b5fa-45be5a7be348": {
+    "id": "9b22e6ae-356b-492d-b5fa-45be5a7be348",
+    "document": "[Italy] [Dr. Marco Rossi] [06:04] Dr. Marco Rossi: It is usually not a single person. Surgeons provide the clinical justification, procurement evaluates suppliers and contracts, finance looks at the economics, and hospital leadership makes the final capital decision.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "06:04",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 21
+    }
+  },
+  "224e0401-156d-49fa-b9f0-3e69aa26f3c8": {
+    "id": "224e0401-156d-49fa-b9f0-3e69aa26f3c8",
+    "document": "[Italy] [Dr. Marco Rossi] [06:22] Interviewer: If you had to identify the single most important factor in adoption, what would it be?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "06:22",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 22
+    }
+  },
+  "a17e09bf-3492-4120-9a7d-bb99051abc63": {
+    "id": "a17e09bf-3492-4120-9a7d-bb99051abc63",
+    "document": "[Italy] [Dr. Marco Rossi] [06:30] Dr. Marco Rossi: I would not choose one factor. Adoption depends on the combination of clinical need, procedure volume, trained staff, capital availability, and the expected economic value. Focusing on only one of these can give a misleading picture.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "06:30",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 23
+    }
+  },
+  "77f4e701-5361-4d93-8483-3466557aab82": {
+    "id": "77f4e701-5361-4d93-8483-3466557aab82",
+    "document": "[Italy] [Dr. Marco Rossi] [06:48] Interviewer: Is there anything else that is important when comparing robotic surgery markets across Europe?",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "06:48",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 24
+    }
+  },
+  "3896e218-6f4e-4f11-b024-02057d70aa49": {
+    "id": "3896e218-6f4e-4f11-b024-02057d70aa49",
+    "document": "[Italy] [Dr. Marco Rossi] [06:55] Dr. Marco Rossi: Yes. I would avoid assuming that the purchasing behaviour is identical across countries. Funding structures, procurement processes, hospital size, and training capacity can differ significantly. Comparisons should therefore distinguish between country-level evidence and individual hospital examples.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "06:55",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 25
+    }
+  },
+  "651a249c-0d7a-4344-8d8c-f84240a21146": {
+    "id": "651a249c-0d7a-4344-8d8c-f84240a21146",
+    "document": "[Italy] [Dr. Marco Rossi] [07:12] Interviewer: Thank you.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "07:12",
+      "speaker": "Interviewer",
+      "is_expert": false,
+      "chunk_index": 26
+    }
+  },
+  "4d391b0d-4dc6-420f-82df-2a87ac5b394f": {
+    "id": "4d391b0d-4dc6-420f-82df-2a87ac5b394f",
+    "document": "[Italy] [Dr. Marco Rossi] [07:15] Dr. Marco Rossi: Thank you.",
+    "metadata": {
+      "expert_name": "Dr. Marco Rossi",
+      "country": "Italy",
+      "expert_role": "Director of Urology, Regional Teaching Hospital",
+      "timestamp": "07:15",
+      "speaker": "Dr. Marco Rossi",
+      "is_expert": true,
+      "chunk_index": 27
+    }
+  }
+}
