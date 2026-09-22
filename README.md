@@ -1,6 +1,6 @@
 # 🔬 ExpertLens AI
 
-> **Enterprise-grade Qualitative Research Engine for Healthcare & Tech Market Transcripts.**  
+ 
 > Built with FastAPI, React, ChromaDB, SQLite, and strict 4-Stage Safety Guardrails.
 
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://python.org)
