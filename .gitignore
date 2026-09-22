@@ -109,5 +109,11 @@ eval_report_*.json
 eval_report_*.csv
 eval_run_*.json
 
-# Agent scratch directory
+# ==============================================================================
+# AI Assistants, Agents & Knowledge Graphs
+# ==============================================================================
+.agents/
+graphify-out/
 scratch/
+.gemini/
+
